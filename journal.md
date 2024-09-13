@@ -27,3 +27,10 @@ Polite, Productive, Prompt, Positive, and Prepared.
 POLITE
 
 If people are polite and respect others for what they are, they will earn the respect that they deserve. Good manners do not have any fixed definition. Being thankful, polite, kind, generous, considerate and respectful are some qualities of a good-mannered person. It leaves a positive impact on everyone around
+
+# september 13, 2024
+
+Confident, Courageous, Consistent, Communicate
+
+Confident
+Confidence means feeling sure of yourself and your abilities — not in an arrogant way, but in a realistic, secure way. Confidence isn't about feeling superior to others. It's a quiet inner knowledge that you're capable. Confident people: feel secure rather than insecure.
