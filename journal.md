@@ -34,3 +34,7 @@ Confident, Courageous, Consistent, Communicate
 
 Confident
 Confidence means feeling sure of yourself and your abilities — not in an arrogant way, but in a realistic, secure way. Confidence isn't about feeling superior to others. It's a quiet inner knowledge that you're capable. Confident people: feel secure rather than insecure.
+
+# september 18, 2024
+My experience with the sphero bolt maze was and is uneventful because i couldn't get it to work properly.
+
