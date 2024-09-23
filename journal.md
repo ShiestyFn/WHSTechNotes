@@ -40,3 +40,5 @@ My experience with the sphero bolt maze was and is uneventful because i couldn't
 
 # september 19, 2024
 I successfully completed my maze by myself with minimal complications. To be honest it wasnt hard at all it was a done and done i only struggled the first day doing this because i wasnt paying attention.
+
+
