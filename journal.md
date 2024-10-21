@@ -46,3 +46,7 @@ I successfully completed my maze by myself with minimal complications. To be hon
 3. Sphero gave me more control than Python because Python was more complex.
 
 # september 30, 2024
+
+# october 21, 2024
+The benifits we as a community could gain from all this is one AI algorithms can analyze medical images like X-rays or MRIs to identify  potential diseases earlier than traditional methods, leading to faster diagnosis and treatment. There would be a better way to lear and teach with  AI-powered platforms can adjust learning pathways based on individual student performance, providing personalized learning experiences. And the way we use transportation would change as well by using  AI algorithms can analyze traffic patterns and optimize delivery routes, minimizing travel time and fuel consumption.
+The potential risks that this evolution may hold could also harm us as a community, and the amount of job displacements there would be as AI becomes more sophisticated, it could automate tasks currently performed by humans, potentially leading to significant job losses across various sectors. When AI systems are trained on biased data, they can perpetuate discriminatory patterns in decision-making, impacting areas like hiring, lending, and criminal justice. AI could be used to create targeted propaganda or manipulate public opinion through personalized content and social engineering techniques. 
