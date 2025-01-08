@@ -72,3 +72,10 @@ Despite the excitement around generative AI, there are concerns regarding misinf
 
 # december 9, 2024
 The term "brain rot" refers to the mental overload and lack of clarity caused by excessive engagement with digital media. This year, the impact of technology on mental health is evident, providing both valuable information and connection opportunities while also causing distractions and fatigue.
+
+# january 8, 2025
+Looking Back:
+Reflecting on last semester, what I enjoyed most about the class was the collaborative projects we undertook. Working with classmates allowed us to share ideas and learn from one another, fostering a sense of community within the classroom. I particularly appreciated the hands-on activities, such as the group presentations and coding challenges, as they allowed me to put theory into practice while enhancing my understanding of the subject matter.
+Looking Ahead:
+As we begin this semester, I’m excited about the possibility of exploring advanced topics such as machine learning or game development. I think engaging in hands-on projects, like developing an app or a game from start to finish, would be incredibly rewarding. Moreover, I'd love to have sessions dedicated to learning about industry trends and emerging technologies to better understand their relevance in the field today.
+Certifications: I appreciate the opportunity to reflect on my experiences and share my aspirations and look forward to an engaging semester ahead!
