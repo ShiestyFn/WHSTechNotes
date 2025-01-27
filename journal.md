@@ -84,3 +84,11 @@ Certifications: I appreciate the opportunity to reflect on my experiences and sh
 Government intervention in technology companies such as TikTok can significantly impact both the companies and their users. Regulatory measures aim to protect user data privacy and enhance security; however, they can also hinder innovation and limit a company's ability to serve its global audience. For instance, a ban on TikTok not only affects users' access to a popular platform but also cautions other tech firms about the risks of operating in politically charged environments. This situation underscores the need for a balanced approach that safeguards users without impeding innovation.
 
 To address security concerns while maintaining global operations, TikTok could adopt a more transparent data management framework, such as storing user data locally by region to alleviate fears of foreign access. Encouraging greater user control over privacy settings, like visibility and interaction options, might further build trust with users and regulators. A proposed feature called "Privacy Vault" would allow users to manage their privacy settings easily and review data collection practices, aligning the app with ethical standards in software development. This scenario highlights the critical importance of integrating user privacy considerations into projects and understanding the regulatory landscape that shapes tech development and innovation.
+
+# january 27, 2025
+| Name    | Car            | Mistake                       |
+|---------|----------------|-------------------------------|
+| Jimmy   | Unknown        | Drilled hole in gas tank      |
+| Kayla   | Sierra         | Left oil cap off              |
+| Bart    | Honda Civic    | Left stains on the carpet     |
+| Harrison| Forester       | No mistake indicated           |
