@@ -107,3 +107,5 @@ Moreover, the role of human-computer interaction (HCI) in aviation cannot be ove
 
  4.Direct translations may not capture the nuance of the original message, leading to misunderstandings.
 
+# March 4, 2025
+Last Friday's class behavior with the substitute teacher was not our best.
