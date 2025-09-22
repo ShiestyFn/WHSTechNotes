@@ -118,3 +118,15 @@ Right now, I’m feeling quite balanced mentally, emotionally, and physically. M
 The most stressful part of school lately has been managing multiple assignments with overlapping deadlines. To take care of myself during these stressful times, I prioritize organizing my schedule and breaking down tasks into manageable steps. Additionally, I make sure to incorporate short breaks to relax and recharge, whether it’s through a quick walk outside or practicing deep breathing exercises. These small actions help me stay grounded and maintain a positive outlook.
 One goal I have for the rest of the school year is to improve my time management skills. Staying motivated to reach this goal involves setting clear priorities and rewarding myself for completing tasks on time. I also plan to use tools like planners and digital apps to keep track of my progress and stay organized. Having a structured approach will help me achieve this goal while reducing stress.
 When I feel overwhelmed, I can always talk to my best friend. I trust them because they are a great listener and offer support without judgment. They understand my challenges and provide valuable advice when needed. Knowing that I have someone reliable to turn to makes a big difference in managing stress and maintaining a positive mindset.
+
+# September 2, 2025
+Vibe coding or using AI tools like chatgpt or gitHub copilot to assist in writing or explaining code presents a complex landscape of both significant risks and certain benefits for students learning computer science. These tools can accelerate learning and improve efficiency they also pose challenges to developing problem-solving skills and aunderstanding of programming concepts.
+
+# September 8, 2025
+I am interested in a career as a biomedical engineer, and computer science is becoming increasingly invaluable in this profession. The integration of computational methods allows for advancements in areas ranging from medical device design to personalized medicine .
+
+# September 15, 2025
+My AI project idea is an AI-powered personalized learning assistant designed to adapt to individual student learning styles and paces especifically in STEM subjects. This assistant would utilize natural language processing (NLP) to understand student queries and provide tailored explanations interactive exercises and real-time feedback much like a dedicated tutor.
+
+# September 22, 2025
+I believe that working in a virtual store for real money is a potentially good idea for the future of jobs but with significant caveats and ethical considerations that need to be addressed. It offers novel opportunities the long-term implications for traditional employment and worker exploitation are concerning.
