@@ -130,3 +130,4 @@ My AI project idea is an AI-powered personalized learning assistant designed to 
 
 # September 22, 2025
 I believe that working in a virtual store for real money is a potentially good idea for the future of jobs but with significant caveats and ethical considerations that need to be addressed. It offers novel opportunities the long-term implications for traditional employment and worker exploitation are concerning.
+( i used ai )
