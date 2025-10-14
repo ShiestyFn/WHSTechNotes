@@ -131,3 +131,9 @@ My AI project idea is an AI-powered personalized learning assistant designed to 
 # September 22, 2025
 I believe that working in a virtual store for real money is a potentially good idea for the future of jobs but with significant caveats and ethical considerations that need to be addressed. It offers novel opportunities the long-term implications for traditional employment and worker exploitation are concerning.
 ( i used ai )
+
+# October 14, 2025
+https://jamirjones.my.canva.site/
+
+## Part 2
+My prompt was designed to teach middle school students about the water cycle using an interactive slideshow. Canva did it very well and included colorful visuals and animations that showed each stage clearly. The quiz at the end worked best for reviewing key ideas. However, some animations didnt match the text like i wanted them to. Next time, I will make my promopt more specific about the animations timing and the layout too.
