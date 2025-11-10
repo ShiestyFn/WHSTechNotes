@@ -135,5 +135,8 @@ I believe that working in a virtual store for real money is a potentially good i
 # October 14, 2025
 https://jamirjones.my.canva.site/
 
+# November 10, 2025
+Technology has irrevocally changed the holidays, especially regarding how people connect and celebrate. Video calls and social media have become ubiquitous, allowing families separated by distance to share moments in real time and create a feeling of togetherness that was impossible before. This digital connectivity, while convenient, also introduces complexities.
+
 ## Part 2
 My prompt was designed to teach middle school students about the water cycle using an interactive slideshow. Canva did it very well and included colorful visuals and animations that showed each stage clearly. The quiz at the end worked best for reviewing key ideas. However, some animations didnt match the text like i wanted them to. Next time, I will make my promopt more specific about the animations timing and the layout too.
