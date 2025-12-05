@@ -140,3 +140,6 @@ Technology has irrevocally changed the holidays, especially regarding how people
 
 ## Part 2
 My prompt was designed to teach middle school students about the water cycle using an interactive slideshow. Canva did it very well and included colorful visuals and animations that showed each stage clearly. The quiz at the end worked best for reviewing key ideas. However, some animations didnt match the text like i wanted them to. Next time, I will make my promopt more specific about the animations timing and the layout too.
+
+# December 1, 2025
+A real job that utilizes drones is a drone show technician, a role focused on the operation and maintenance of large-scale drone light displays. Programmers in this field use specialized software to choreograph complex flight paths, run anti collision checks, and ensure real-time synchronization for hundreds of drones during a performance. This software automatically handles critical safety constraints like drone spacing and speed limit, allowing animators to focus on creativity. In the U.S., the average salary for a drone technician is approximately 46,468$ per year. qualifications usually include technical training and, most importantly, an FAA Part 107 Remote Pilot Certificate to legally operate commercially. The career is a fascinating blend of technical skill and a artistic expression.
