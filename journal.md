@@ -146,3 +146,19 @@ A real job that utilizes drones is a drone show technician, a role focused on th
 
 # December, 8 2025
 Self-driving cars can struggle to recognize a stopped school bus due to limitation in perception and processing systems. Poor lighting or obstructions might hinder cameras from classifying the stop sign effectively. The AI and sensor fusion system may also misinterpret this specific less common scenario especially if underrepresented in training data. Recognizing a school bus require not just seeing the bus and sign, but understanding the signal demands an immediate stop overriding normal traffic rules. To enhance safety programmers could implement a dedicated processing path for identifying school bus cues like shape, color, flashing lights, and the stop arm. This system would trigger a specific school bus stop mode upon confirmation, initiating an immediate full stop that overrides standard traffic logic. This prioritized safety rule helps reduce risks even when other systems face challenges.
+
+# December, 9 2025
+Name: Jamir Jones
+Period: 6th period
+Title: Protecting Our Learning Space
+
+Students must not eat or drink at computers and must clean up their trash to protect sensitive technology from damage, maintain a hygienic learning environment, and show respect for shared resources. These rules exist to ensure the classroom remains functional, safe, and welcoming for everyone. 
+
+Technology Protection: Spilled drinks can cause short circuits, rust, and permanent damage to expensive computers, while food crumbs and grease can create sticky, malfunctioning keyboards.
+Hygiene & Safety: Food waste attracts pests, and studies have shown that uncleaned keyboards and surfaces can harbor high levels of bacteria, sometimes higher than a toilet seat, leading to increased sickness.
+Environment: A clean, organized classroom reduces distractions, allowing students to focus better and fostering a sense of pride, while a messy room can cause stress and hinder learning.
+Respect & Responsibility: Leaving trash creates unnecessary, extra work for custodians and makes the space unpleasant for the next user. 
+
+These rules are essential because they prevent costly, avoidable damage to computers that everyone needs for schoolwork. When we eat and drink at computers, we risk destroying equipment that is vital for learning, which hurts all students. Furthermore, a clean environment is directly linked to better student focus and performance, while a dirty, cluttered space causes distractions and can make it harder to concentrate. Cleaning up after ourselves is a matter of respect for classmates, teachers, and custodians, ensuring the room remains a safe and productive place for education rather than a breeding ground for pests and bacteria. Ultimately, keeping the room tidy demonstrates that we take pride in our learning space and care about the well-being of others. 
+
+# December, 12 2025
