@@ -161,4 +161,7 @@ Respect & Responsibility: Leaving trash creates unnecessary, extra work for cust
 
 These rules are essential because they prevent costly, avoidable damage to computers that everyone needs for schoolwork. When we eat and drink at computers, we risk destroying equipment that is vital for learning, which hurts all students. Furthermore, a clean environment is directly linked to better student focus and performance, while a dirty, cluttered space causes distractions and can make it harder to concentrate. Cleaning up after ourselves is a matter of respect for classmates, teachers, and custodians, ensuring the room remains a safe and productive place for education rather than a breeding ground for pests and bacteria. Ultimately, keeping the room tidy demonstrates that we take pride in our learning space and care about the well-being of others. 
 
-# December, 12 2025
+# January 6, 2026
+Over the break, my phone and laptop were basically glued to my hands. Since I couldn't see everyone in person, I lived on FaceTime and Discord to hang out with my friends and family so things didn't get too boring. When I wasn't on a call, I was usually binge-watching shows on Netflix or losing track of time in a game. Even when I was just chilling, I used my tablet to read or scroll through articles I'd missed during the school semester. It was a solid mix of staying social and just vegetating, showing how much I actually rely on tech to both stay busy and totally zone out.
+
+# January 12, 2026
