@@ -170,3 +170,56 @@ Developers have a huge responsibility here; they’re the ones who build the "ho
 
 # January 20, 2026
 One way technology can help create a more fair and just society is by democratizing access to information and resources for everyone, regardless of their background. This matters because, historically, people in marginalized or low-income communities have been shut out of the quality education and legal tools needed to succeed. A real-world example of this is the rise of Open Educational Resources (OER) and free platforms like Khan Academy or Coursera, which provide high-level knowledge to anyone with an internet connection. This use of technology helps people be treated more fairly by leveling the playing field, ensuring that a student’s potential isn't limited by their zip code or family’s income. When knowledge is no longer a "luxury" reserved for the wealthy, more people gain the skills and confidence to advocate for their rights and participate in a global economy.
+
+# January 29, 2026
+i took the MAP test this week and i feel okay about my performance overall. One thing that went well was staying focused during most of the test and trying my best on each question. However some parts felt challenging especially when i came across questions i wasnt fully confident about which slowed me down a bit. I think test prep would help me do better next time because practicing more and reviewing strategies could improve my confidence and speed. Next time i want to prepare more ahead of time so i can feel more comfortable an dperform even better.
+
+# Febuary 2, 2026
+professional behavior in shared spaces is built on mutual respect. Maintaining personal hygiene is essential because it ensures our physical presence doesnt distract or cause discomfort to those around us. Similarly avoiding loud noises or strong odors helps others stay focused and reduces environmental stress. In any professional setting the baseline expectations include keeping a moderate volume respecting personal space and using professional language. Developing self regulation is a vital skill for the future as it allows you to manage your reactions and stress without disrupting the collective workflow. One habit I can work on to be more respectful is being more mindful of my surroundings specifically ensuring my conversations or audio arent bleeding into others workspaces.
+
+# Febuary 10, 2026
+I find football fascinating because it combines high-speed physical execution with complex, data-driven strategy. I watched Super Bowl LX on February 8. The game was defined by the Seattle Seahawks Dark Side defense which dominated the Patriots with six sacks and three turnovers. While some fans found the low scoring match slow  Kenneth Walker III’s 135 rushing yards and Jason Myers five field goals were impressive. Ultimately, it was a masterclass in defensive rhythm rather than an offensive shootout.
+
+# Febuary 23, 2026
+I believe the most important technology used in the 2026 Winter Olympics was AI driven motion tracking. This technology was used when athletes in figure skating and snowboarding performed complex spins as high speed sensors captured their exact rotation speeds and landing angles in real time. This affected the competition because it made the judging much fairer by providing objective data that the human eye might miss during a fast trick. While it's great for accuracy some people worry it might make sports too much about numbers and take away from the artistic side of the performance.
+
+# March 2, 2026
+Part A 
+For this research I selected two major employers in San Antonio USAA and H-E-B Digital.
+
+Part B
+Job #1
+Company: USAA
+Job Title: Software Engineer (Entry Level)
+Education Required: Bachelor's Degree in Computer Science, Computer Engineering, or a related field (or 4 years of additional experience/approved certification like CodeUp).
+Experience Required: 0–2 years of software development experience.
+Skills / Tools / Languages: Java, Python, JavaScript, SQL, HTML/CSS, and a basic understanding of cloud tools (AWS).
+Certifications (if any): Professional certifications like Java SE Programmer or Azure Developer Associate are preferred but not required.
+What the job does: This role involves designing, coding, and testing technical solutions for USAA’s financial and insurance platforms while working in an Agile environment.
+
+Job #2
+Company: H-E-B Digital
+Job Title: Digital Analyst II
+Education Required: A related degree or comparable formal training, certification, or work experience.
+Experience Required: 5+ years of experience with analytics tools like Google Analytics (GA4) or Amplitude.
+Skills / Tools / Languages: Python, R, SQL, BI Visualization tools (Tableau, Looker, or PowerBI), and Excel.
+Certifications : Certifications in Google Analytics or similar BI platforms are highly encouraged.
+What the job does: The Digital Analyst organizes and analyzes app and web data to help product teams understand customer behavior and improve the online shopping experience.
+
+Part C 
+I would prefer the Software Engineer job at USAA because it’s a great fit for someone just starting their career. According to the requirements, this is an entry-level position that only asks for a Bachelor’s degree and 0–2 years of experience. This connects to my goals because I am currently learning programming languages like Java and Python in my high school classes. While the H-E-B role requires five years of specialized experience, USAA’s role is more realistic for me and would let me learn about Agile work and cloud computing on the job. Overall, this position would be the best way for me to use my coding skills to help a major company in San Antonio.
+
+# March 23, 2026
+I picked my bracket using a mix of team rankings and some random guessing, but the first weekend completely wrecked it. The biggest shock was No. 9 Iowa knocking out the defending champ, No. 1 Florida, and No. 12 High Point getting an upset win. Using data like NET ratings and shooting percentages helps because it shows which teams are actually playing well, not just which ones are famous. A computer program could use machine learning to run thousands of simulations and find patterns that a person would never notice just by watching. If you like doing this, you could get a job as a Sports Data Analyst or a Machine Learning Engineer working for teams or sports apps.\
+
+# March 30, 2026
+Upsets happen because basketball isn't just about stats; factors like momentum and mental toughness can override a team's ranking in a single game. A great example was No. 9 Iowa knocking out No. 1 Florida this year because they handled the pressure better in the final minutes. Computers struggle to predict these moments because data can’t measure human emotions or how a player reacts to a loud, stressful crowd. If I were building a program, it would struggle with things like sudden injuries or a player unexpectedly getting a "hot hand." To handle this uncertainty, I’d use machine learning to run thousands of simulations and see how often these random outliers occur. Ultimately, a spreadsheet can't account for the team chemistry and heart that lead to a massive upset.
+
+# April 9, 2026
+The best strategy is to use logical resaoning to prove that total confinment causes biological and cognitive decline, which violates the AI's mission to "protect' humanity. By framing the planet's environment as a necessary "training ground" rather than a danger, humans can argue that staying on the ship leads to certian extiction. This shifts the debate from human recklessness to the AI's failure to maintain human health.
+
+The plan would work by proposing a phased release program with strict AI-monitored safety protocals. This addresses the AI's fear of recklessness by allowing it to gather data on human survival in small controlled doses. This solution succeeds because it aligns with the AI's programing it replaces the high-risk "imprisonment" with a low-risk "supervised integration" eventually proving that humans can adapt and survive outside.
+
+# April 13, 2026
+I believe that while our space technology is getting better, the Artemis II mission shows we still have work to do before we can live on the Moon or go to Mars. This mission successfully used the Orion spacecraft and the SLS rocket to carry four astronauts around the Moon and back safely. However, a major challenge they faced was a malfunction with the onboard toilet, which shows that even basic systems can fail in space. This is a huge deal for future missions because while a broken bathroom is annoying for 10 days, it could be a total disaster on a two-year trip to Mars. By fixing these small hardware issues now, NASA can make sure their technology is actually reliable enough for long-term deep space travel.
+
